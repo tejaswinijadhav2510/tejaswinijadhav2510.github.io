@@ -1,2 +1,2 @@
-portfolio link  www.tejasjadhav2510.github.io
+portfolio link  https://tejasjadhav2510.github.io
 
